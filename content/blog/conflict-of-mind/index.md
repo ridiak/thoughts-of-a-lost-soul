@@ -5,7 +5,7 @@ description: "It all feels pointless because I keep looking at the clock instead
 Think Think THINK! \"Oh That writing sounds meaningful you should share it\"…"
 ---
 
-![Mind Jail](./Mind.webp)
+![Mind Jail](./scream.webp)
 
 I cannot figure my purpose for life. I wish it would be making video games, that would be oh so meaningful for my idealism. It is one big reason why I joined an engineering school.
 
@@ -16,7 +16,10 @@ Maybe I am someone else. I surely still have to figue myself out.
 
 It all feels pointless because I keep looking at the clock instead of living. I know why… Kind of. It’s my brain wired to think.
 
-Think Think THINK! Oh That writing sounds meaningful you should share it. Maybe people will like reading it, maybe you can make a blog out of that… Maybe Maybe MAYBE. SHUT UP.
+Think Think THINK! "Oh That writing sounds meaningful you should share it. Maybe people will like reading it, maybe you can make a blog out of that…" Maybe Maybe MAYBE.
+
+**SHUT UP**
+
 I’ve not even finished WRITING THAT UP THAT THOSE INTRUSIVE COGS KEEP TURNING< > I DON’T WANT TO MAKE ANYTHING OUT OF THAT LET ME OUT> LET ME LIVE MY THOUGHTS IN THE NOW
 
 I am tired of looking ahead. Tired of being anxious. I just want to live. Have a purpose, do something that I would be happy of.
