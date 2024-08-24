@@ -50,6 +50,7 @@ const BlogIndex = ({ data, location }) => {
                       __html: post.frontmatter.description || post.excerpt,
                     }}
                     itemProp="description"
+                    style={{ fontStyle: "italic" }}
                   />
                 </section>
               </article>
