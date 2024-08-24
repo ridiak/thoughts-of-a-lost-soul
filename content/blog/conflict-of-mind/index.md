@@ -2,7 +2,7 @@
 title: Conflict with the mind
 date: '2024-08-23T23:34:02.589Z'
 description: "It all feels pointless because I keep looking at the clock instead of living. I know why… Kind of. It’s my fucking brain wired to think.
-Think Think THINK! Oh That writing sounds meaningful you should share it…"
+Think Think THINK! \"Oh That writing sounds meaningful you should share it\"…"
 ---
 
 ![Mind Jail](./Mind.webp)

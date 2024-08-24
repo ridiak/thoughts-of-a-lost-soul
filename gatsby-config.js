@@ -15,7 +15,7 @@ module.exports = {
       summary: `who waste their time in an unproductive gap year.`,
     },
     description: `Sharing thoughts that make no sense. Welcome to my head.`,
-    siteUrl: ``,
+    siteUrl: `https://lost-thoughts.netlify.app/`,
     social: {
       twitter: ``,
     },
